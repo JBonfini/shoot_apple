@@ -1,0 +1,10 @@
+body {
+    overflow: hidden;    
+}
+
+#laser {
+    position: absolute;
+    top: 70px;
+    margin-left: -10px;
+}
+
